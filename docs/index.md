@@ -70,7 +70,7 @@ article.md-content__inner {
 
       <div class="course-card-buttons">
         <a href="https://forms.gle/CPL4Rs2pmuR4yToKA" target="_blank" class="btn btn-primary btn-small" style="color: black">Enroll Now</a>
-        <a href="/Python/11_python_tutorial/" class="btn btn-secondary btn-small" style="color: white">Use Free Resources</a>
+        <a href="/Python/11_python_tutorial/" class="btn btn-secondary btn-small" style="color: white">Start Learning Free</a>
       </div>
     </div>
 
@@ -99,7 +99,7 @@ article.md-content__inner {
 
       <div class="course-card-buttons">
         <a href="https://forms.gle/CPL4Rs2pmuR4yToKA" target="_blank" class="btn btn-primary btn-small" style="color: black">Enroll Now</a>
-        <a href="/Git/01_introduction/" class="btn btn-secondary btn-small" style="color: white">Use Free Resources</a>
+        <a href="/Git/01_introduction/" class="btn btn-secondary btn-small" style="color: white">Start Learning Free</a>
       </div>
     </div>
 
@@ -128,7 +128,7 @@ article.md-content__inner {
 
       <div class="course-card-buttons">
         <a href="https://forms.gle/CPL4Rs2pmuR4yToKA" target="_blank" class="btn btn-primary btn-small" style="color: black">Enroll Now</a>
-        <a href="/Data%20Collection%20and%20Visulization/SQL/01_introduction/" class="btn btn-secondary btn-small" style="color: white">Use Free Resources</a>
+        <a href="/Data%20Collection%20and%20Visulization/SQL/01_introduction/" class="btn btn-secondary btn-small" style="color: white">Start Learning Free</a>
       </div>
     </div>
 
@@ -157,7 +157,7 @@ article.md-content__inner {
 
       <div class="course-card-buttons">
         <a href="https://forms.gle/CPL4Rs2pmuR4yToKA" target="_blank" class="btn btn-primary btn-small" style="color: black">Enroll Now</a>
-        <a href="/Data%20Collection%20and%20Visulization/31_matplotlib_refined/" class="btn btn-secondary btn-small" style="color: white">Use Free Resources</a>
+        <a href="/Data%20Collection%20and%20Visulization/31_matplotlib_refined/" class="btn btn-secondary btn-small" style="color: white">Start Learning Free</a>
       </div>
     </div>
 
@@ -186,7 +186,7 @@ article.md-content__inner {
 
       <div class="course-card-buttons">
         <a href="https://forms.gle/CPL4Rs2pmuR4yToKA" target="_blank" class="btn btn-primary btn-small" style="color: black">Enroll Now</a>
-        <a href="/Maths%20%26%20Statistics/50_maths_and_stats_for_ds/" class="btn btn-secondary btn-small" style="color: white">Use Free Resources</a>
+        <a href="/Maths%20%26%20Statistics/50_maths_and_stats_for_ds/" class="btn btn-secondary btn-small" style="color: white">Start Learning Free</a>
       </div>
     </div>
 
@@ -215,7 +215,7 @@ article.md-content__inner {
 
       <div class="course-card-buttons">
         <a href="https://forms.gle/CPL4Rs2pmuR4yToKA" target="_blank" class="btn btn-primary btn-small" style="color: black">Enroll Now</a>
-        <a href="/Machine%20Learning/41_overview_of_machine_learning/" class="btn btn-secondary btn-small" style="color: white">Use Free Resources</a>
+        <a href="/Machine%20Learning/41_overview_of_machine_learning/" class="btn btn-secondary btn-small" style="color: white">Start Learning Free</a>
       </div>
     </div>
 
@@ -244,7 +244,7 @@ article.md-content__inner {
 
       <div class="course-card-buttons">
         <a href="https://forms.gle/CPL4Rs2pmuR4yToKA" target="_blank" class="btn btn-primary btn-small" style="color: black">Enroll Now</a>
-        <a href="/Time%20Series/90_introduction/" class="btn btn-secondary btn-small" style="color: white">Use Free Resources</a>
+        <a href="/Time%20Series/90_introduction/" class="btn btn-secondary btn-small" style="color: white">Start Learning Free</a>
       </div>
     </div>
 
@@ -273,7 +273,7 @@ article.md-content__inner {
 
       <div class="course-card-buttons">
         <a href="https://forms.gle/CPL4Rs2pmuR4yToKA" target="_blank" class="btn btn-primary btn-small" style="color: black">Enroll Now</a>
-        <a href="/Deep%20Learning/outline/" class="btn btn-secondary btn-small" style="color: white">Use Free Resources</a>
+        <a href="/Deep%20Learning/outline/" class="btn btn-secondary btn-small" style="color: white">Start Learning Free</a>
       </div>
     </div>
   </div>
