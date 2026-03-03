@@ -164,6 +164,15 @@ nav:
           - Simple CNN: Deep Learning/Week9-CNNs/9.4.1ConvolutionalNeralNetworkSimple example.ipynb
           - Small Image CNN: Deep Learning/Week9-CNNs/9.4.2CNN_Small_Image.ipynb
           - Batch Processing: Deep Learning/Week9-CNNs/9.4.3CNN_Small_Image_batch.ipynb
+      - PyTorch Official Tutorials:
+          - Quickstart: Deep Learning/WeekX-PyTorch-Official/quickstart_tutorial.ipynb
+          - Tensor Basics: Deep Learning/WeekX-PyTorch-Official/tensorqs_tutorial.ipynb
+          - Data & Datasets: Deep Learning/WeekX-PyTorch-Official/data_tutorial.ipynb
+          - Transforms: Deep Learning/WeekX-PyTorch-Official/transforms_tutorial.ipynb
+          - Build Model: Deep Learning/WeekX-PyTorch-Official/buildmodel_tutorial.ipynb
+          - Autograd: Deep Learning/WeekX-PyTorch-Official/autogradqs_tutorial.ipynb
+          - Optimization: Deep Learning/WeekX-PyTorch-Official/optimization_tutorial.ipynb
+          - Save, Load & Run: Deep Learning/WeekX-PyTorch-Official/saveloadrun_tutorial.ipynb
   - Extras:
       - Customer Analysis: Extras/customer_analysis.ipynb
       - How KNN Works: Extras/how_KNN_works.ipynb
