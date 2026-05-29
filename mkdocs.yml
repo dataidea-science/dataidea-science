@@ -165,14 +165,14 @@ nav:
           - Small Image CNN: Deep Learning/Week9-CNNs/9.4.2CNN_Small_Image.ipynb
           - Batch Processing: Deep Learning/Week9-CNNs/9.4.3CNN_Small_Image_batch.ipynb
       - PyTorch Official Tutorials:
-          - Quickstart: Deep Learning/WeekX-PyTorch-Official/quickstart_tutorial.ipynb
-          - Tensor Basics: Deep Learning/WeekX-PyTorch-Official/tensorqs_tutorial.ipynb
-          - Data & Datasets: Deep Learning/WeekX-PyTorch-Official/data_tutorial.ipynb
-          - Transforms: Deep Learning/WeekX-PyTorch-Official/transforms_tutorial.ipynb
-          - Build Model: Deep Learning/WeekX-PyTorch-Official/buildmodel_tutorial.ipynb
-          - Autograd: Deep Learning/WeekX-PyTorch-Official/autogradqs_tutorial.ipynb
-          - Optimization: Deep Learning/WeekX-PyTorch-Official/optimization_tutorial.ipynb
-          - Save, Load & Run: Deep Learning/WeekX-PyTorch-Official/saveloadrun_tutorial.ipynb
+          - Quickstart: Deep Learning/WeekX-PyTorch-Official/01_quickstart_tutorial.ipynb
+          - Tensor Basics: Deep Learning/WeekX-PyTorch-Official/02_tensorqs_tutorial.ipynb
+          - Data & Datasets: Deep Learning/WeekX-PyTorch-Official/03_data_tutorial.ipynb
+          - Transforms: Deep Learning/WeekX-PyTorch-Official/04_transforms_tutorial.ipynb
+          - Build Model: Deep Learning/WeekX-PyTorch-Official/05_buildmodel_tutorial.ipynb
+          - Autograd: Deep Learning/WeekX-PyTorch-Official/06_autogradqs_tutorial.ipynb
+          - Optimization: Deep Learning/WeekX-PyTorch-Official/07_optimization_tutorial.ipynb
+          - Save, Load & Run: Deep Learning/WeekX-PyTorch-Official/08_saveloadrun_tutorial.ipynb
   - Extras:
       - Customer Analysis: Extras/customer_analysis.ipynb
       - How KNN Works: Extras/how_KNN_works.ipynb
